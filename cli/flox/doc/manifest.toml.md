@@ -51,7 +51,7 @@ ripgrep = { pkg-path = "ripgrep" }
 pip = { pkg-path = "python310Packages.pip" }
 ```
 or
-```
+```toml
 [install.ripgrep]
 pkg-path = "ripgrep"
 
